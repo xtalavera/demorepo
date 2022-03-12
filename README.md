@@ -12,4 +12,3 @@ Some description!
  ## Local Development
 
  1.Open index.htmlin your browser.
- 
