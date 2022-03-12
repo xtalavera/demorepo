@@ -9,4 +9,6 @@ Some description!
  Gang shit
  all love
 
- jh
+ ## Local Development
+
+ 1.Open index.htmlin your browser.
